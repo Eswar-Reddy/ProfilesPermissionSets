@@ -9,6 +9,31 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Asset.AccountId</members>
+        <members>Asset.ContactId</members>
+        <members>Asset.CreatedById</members>
+        <members>Asset.CreatedDate</members>
+        <members>Asset.Description</members>
+        <members>Asset.Id</members>
+        <members>Asset.InstallDate</members>
+        <members>Asset.IsCompetitorProduct</members>
+        <members>Asset.IsDeleted</members>
+        <members>Asset.LastModifiedById</members>
+        <members>Asset.LastModifiedDate</members>
+        <members>Asset.LastReferencedDate</members>
+        <members>Asset.LastViewedDate</members>
+        <members>Asset.Name</members>
+        <members>Asset.OwnerId</members>
+        <members>Asset.ParentId</members>
+        <members>Asset.Price</members>
+        <members>Asset.Product2Id</members>
+        <members>Asset.PurchaseDate</members>
+        <members>Asset.Quantity</members>
+        <members>Asset.RootAssetId</members>
+        <members>Asset.SerialNumber</members>
+        <members>Asset.Status</members>
+        <members>Asset.SystemModstamp</members>
+        <members>Asset.UsageEndDate</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
