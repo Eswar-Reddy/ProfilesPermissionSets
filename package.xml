@@ -96,6 +96,15 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Lead</members>
+        <members>LeadCleanInfo</members>
+        <members>Macro</members>
+        <members>MacroAction</members>
+        <members>MacroInstruction</members>
+        <members>OBILLSwitchesObj__c</members>
+        <members>Opportunity</members>
+        <members>OpportunityCompetitor</members>
+        <members>OpportunityContactRole</members>
         <members>Pass1__c</members>
         <members>Pass3__c</members>
         <name>CustomObject</name>
