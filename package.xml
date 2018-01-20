@@ -96,6 +96,11 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Pass1__c</members>
+        <members>Pass3__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Freestyle_Support_Access_SE</members>
         <members>PermissionSetNew1</members>
         <name>PermissionSet</name>
