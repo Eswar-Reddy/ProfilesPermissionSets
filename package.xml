@@ -130,6 +130,7 @@
         <members>PermissionSetNew1</members>
         <members>PermissionSetNew3</members>
         <members>PermissionSetNew4</members>
+        <members>PermissionSetNew5</members>
         <name>PermissionSet</name>
     </types>
     <types>
