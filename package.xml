@@ -126,6 +126,7 @@
     <types>
         <members>Freestyle_Support_Access_SE</members>
         <members>PermissionSetNew1</members>
+        <members>PermissionSetNew3</members>
         <name>PermissionSet</name>
     </types>
     <types>
