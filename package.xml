@@ -13,7 +13,14 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.AccountNumber</members>
+        <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
+        <members>Account.AnnualRevenue</members>
+        <members>Account.BillingAddress</members>
+        <members>Account.BillingCity</members>
+        <members>Account.BillingCountry</members>
+        <members>Account.BillingGeocodeAccuracy</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
