@@ -21,6 +21,8 @@
         <members>Account.BillingCity</members>
         <members>Account.BillingCountry</members>
         <members>Account.BillingGeocodeAccuracy</members>
+        <members>Account.BillingLatitude</members>
+        <members>Account.BillingLongitude</members>
         <members>Account.BillingState</members>
         <members>Account.BillingStreet</members>
         <members>Account.CleanStatus</members>
@@ -127,6 +129,7 @@
         <members>Freestyle_Support_Access_SE</members>
         <members>PermissionSetNew1</members>
         <members>PermissionSetNew3</members>
+        <members>PermissionSetNew4</members>
         <name>PermissionSet</name>
     </types>
     <types>
