@@ -21,7 +21,14 @@
         <members>Account.BillingCity</members>
         <members>Account.BillingCountry</members>
         <members>Account.BillingGeocodeAccuracy</members>
+        <members>Account.BillingState</members>
+        <members>Account.BillingStreet</members>
+        <members>Account.CleanStatus</members>
+        <members>Account.CreatedById</members>
+        <members>Account.CreatedDate</members>
         <members>Account.CustomerPriority__c</members>
+        <members>Account.DandbCompanyId</members>
+        <members>Account.Description</members>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
