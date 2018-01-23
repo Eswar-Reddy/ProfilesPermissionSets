@@ -163,7 +163,7 @@
         <readable>false</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>Acc8PermissionSet1</label>
+    <label>Acc8PermissionSet2</label>
     <license>Salesforce</license>
     <objectPermissions>
         <allowCreate>true</allowCreate>
